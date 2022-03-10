@@ -2,13 +2,12 @@ Hello Everyone!<br/> ![Hi](https://user-images.githubusercontent.com/85782162/14
 
 I'm Evans Moris Cheahn - Evans<br/>
 
-
+<div style="float-center">
 🔭 I’m currently working as Mobile App Developer<br/>
 🌱 I’m currently learning Fullstack<br/>
 👯 I’m looking to collaborate with other content creators<br/>
 🥅 2022 Goals: Be smart programmer<br/>
 ⚡ Fun fact: I love design and game shooter
-
-
+</div>
 
 
