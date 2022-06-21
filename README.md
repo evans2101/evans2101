@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evans2101" alt="evans2101" /></a> </p>
 
-- 🔭 I’m currently working on [matakala](matakala.io)
+- 🔭 I’m currently working on [Nomina Games](nominagames.com)
 
 - 🌱 I’m currently learning **blockchain**
 
 - 👯 I’m looking to collaborate on [google](google.com)
-
-- 🤝 I’m looking for help with [realliq team](realliq.io)
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/evansmoris21](www.linkedin.com/in/evansmoris21)
 
