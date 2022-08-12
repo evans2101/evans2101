@@ -30,7 +30,7 @@
 <img align="left" src="https://img.shields.io/badge/Node.js-B22222?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Javascript-2E8B57?style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Typescript-008B8B?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/-PYTHON-20B2AA?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/-PYTHON-20B2AA?style=for-the-badge&logo=python&logoColor=white" /><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
