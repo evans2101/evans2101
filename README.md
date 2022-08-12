@@ -17,6 +17,21 @@
 
 - ⚡ Fun fact **I think I'm fun with the people I choose**
 
+<h3 align="left">Specials Experience</h3>
+
+<img align="left" src="https://img.shields.io/badge/Solidity-2E8B57?style=for-the-badge&logo=solidity&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Ethereum-8B0000?style=for-the-badge&logo=Ethereum&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/hardhat-2E8B57?style=for-the-badge" />
+<img align="center" src="https://img.shields.io/badge/-Smart%20Contracts-8B0000?style=for-the-badge" />
+<img align="left" src="https://img.shields.io/badge/-NFT-20B2AA?style=for-the-badge" />
+<img align="left" src="https://img.shields.io/badge/-DeFi-B22222?style=for-the-badge" />
+<img align="left" src="https://img.shields.io/badge/Ethers.js-blue?style=for-the-badge" />
+<img align="left" src="https://img.shields.io/badge/Node.js-B22222?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Javascript-2E8B57?style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Typescript-008B8B?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/-PYTHON-20B2AA?style=for-the-badge&logo=python&logoColor=white" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/evans_moris_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evans_moris_" height="30" width="40" /></a>
