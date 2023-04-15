@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [google](google.com)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/evansmoris21](www.linkedin.com/in/evansmoris21)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/evansmoris21/)
 
 - 💬 Ask me about **reactJS,nodeJS,nextJS,express,axios,bootstrap,tailwindCSS,Solidity,blockchain**
 
