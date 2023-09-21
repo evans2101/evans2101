@@ -47,5 +47,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evans2101&show_icons=true&locale=en&layout=compact" alt="evans2101" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evans2101&show_icons=true&locale=en" alt="evans2101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evans2101&" alt="evans2101" /></p>
